@@ -22,4 +22,4 @@ Berikut adalah proyek Laravel 12 untuk RnD BNCC Tech Challenge Authentication.
 
 ## 📄 Dokumentasi
 File dokumentasi hasil testing API menggunakan Postman tersedia dalam file PDF:
-**Dokumentasi_API_Laravel_RnD_Authentication.pdf**
+`Dokumentasi_API_Laravel_RnD_Authentication.pdf`
